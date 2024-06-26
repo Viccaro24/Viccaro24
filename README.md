@@ -9,3 +9,4 @@ viccaro@prof.educacao.sp.gov.br
 
 @juliaviccaro
 
+![](https://media1.tenor.com/m/DrxOn7alGZEAAAAC/excited.gif)

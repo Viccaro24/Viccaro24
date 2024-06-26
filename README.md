@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil 💙💙
 Meu nome é Julia Viccaro
 
-- Estou estudando na Alura como professora
+- Estou utilizando a plataforma Alura para as minhas aulas de Tecnologia e Rebótica como professora
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos com  os meus alunos
 ### Você pode entrar em contato comigo 📫
